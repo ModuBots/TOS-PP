@@ -2,7 +2,7 @@
 
 **Effective Date**: 12/13/2024 (MM/DD/YYYY)
 
-ModuBot is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your data when you use our Services.
+ModuBots is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your data when you use our Services.
 
 ## 1. Data We Collect
 
