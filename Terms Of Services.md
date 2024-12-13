@@ -2,7 +2,7 @@
 
 **Effective Date**: 12/13/2024 (MM/DD/YYYY)
 
-Welcome to ModuBot, a modular and comprehensive bot development organization committed to delivering high-quality Discord bots and services to enhance server management, engagement, and functionality. By using ModuBot services ("Services"), you agree to these Terms of Service ("Terms"). Please read them carefully.
+Welcome to ModuBots, a modular and comprehensive bot development organization committed to delivering high-quality Discord bots and services to enhance server management, engagement, and functionality. By using ModuBots services ("Services"), you agree to these Terms of Service ("Terms"). Please read them carefully.
 
 ## 1. Acceptance of Terms
 
@@ -10,7 +10,7 @@ By accessing or using our Services, you agree to comply with and be bound by the
 
 ## 2. Services Overview
 
-ModuBot provides a suite of Discord bots designed for various functionalities, including but not limited to moderation, community engagement, gaming, music, learning, and server analytics. Our bots are developed with TypeScript and Discord.js, and some bots may optionally use databases for enhanced features. Most of the bots in ModuBot are **open source** and **free to use** as long as proper credit is given to ModuBot in the bot's "About Me" section, acknowledging the use of some or all of the bot’s code.
+ModuBots provides a suite of Discord bots designed for various functionalities, including but not limited to moderation, community engagement, gaming, music, learning, and server analytics. Our bots are developed with TypeScript and Discord.js, and some bots may optionally use databases for enhanced features. Most of the bots in ModuBots are **open source** and **free to use** as long as proper credit is given to ModuBots in the bot's "About Me" section, acknowledging the use of some or all of the bot’s code.
 
 ## 3. Eligibility
 
@@ -35,11 +35,11 @@ We reserve the right to modify, suspend, or discontinue any part of our Services
 
 ## 6. Intellectual Property
 
-All content, including code, design, trademarks, and branding associated with ModuBot, is owned by ModuBot or its licensors. You may not copy, modify, distribute, or create derivative works without explicit permission, except for open-source bots where credit is required.
+All content, including code, design, trademarks, and branding associated with ModuBots, is owned by ModuBots or its licensors. You may not copy, modify, distribute, or create derivative works without explicit permission, except for open-source bots where credit is required.
 
 ## 7. Limitation of Liability
 
-ModuBot is provided "as is" and "as available" without warranties of any kind. To the fullest extent permitted by law, ModuBot is not liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use our Services.
+ModuBots is provided "as is" and "as available" without warranties of any kind. To the fullest extent permitted by law, ModuBots is not liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use our Services.
 
 ## 8. Termination
 
